@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Personal\\source\\repos\\ControlledDivisionsWithExceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1A6A73-BE26-4736-B6E2-0C3948C39A61}|ControlledDivisionsWithExceptions.csproj|c:\\users\\personal\\source\\repos\\controlleddivisionswithexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1A6A73-BE26-4736-B6E2-0C3948C39A61}|ControlledDivisionsWithExceptions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1A6A73-BE26-4736-B6E2-0C3948C39A61}|ControlledDivisionsWithExceptions.csproj|c:\\users\\personal\\source\\repos\\controlleddivisionswithexceptions\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1A6A73-BE26-4736-B6E2-0C3948C39A61}|ControlledDivisionsWithExceptions.csproj|solutionrelative:mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1A6A73-BE26-4736-B6E2-0C3948C39A61}|ControlledDivisionsWithExceptions.csproj|c:\\users\\personal\\source\\repos\\controlleddivisionswithexceptions\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1A6A73-BE26-4736-B6E2-0C3948C39A61}|ControlledDivisionsWithExceptions.csproj|solutionrelative:exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\ControlledDivisionsWithExceptions\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "ExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\ControlledDivisionsWithExceptions\\ExceptionHandler.cs",
+              "RelativeToolTip": "ExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:22:36.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\ControlledDivisionsWithExceptions\\MathOperations.cs",
+              "RelativeDocumentMoniker": "MathOperations.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\ControlledDivisionsWithExceptions\\MathOperations.cs",
+              "RelativeToolTip": "MathOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:21:12.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\ControlledDivisionsWithExceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\ControlledDivisionsWithExceptions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:51:44.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

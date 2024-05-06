@@ -1,0 +1,14 @@
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\bin\Debug\net8.0\ControlledDivisionsWithExceptions.exe
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\bin\Debug\net8.0\ControlledDivisionsWithExceptions.deps.json
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\bin\Debug\net8.0\ControlledDivisionsWithExceptions.runtimeconfig.json
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\bin\Debug\net8.0\ControlledDivisionsWithExceptions.dll
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\bin\Debug\net8.0\ControlledDivisionsWithExceptions.pdb
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\obj\Debug\net8.0\ControlledDivisionsWithExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\obj\Debug\net8.0\ControlledDivisionsWithExceptions.AssemblyInfoInputs.cache
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\obj\Debug\net8.0\ControlledDivisionsWithExceptions.AssemblyInfo.cs
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\obj\Debug\net8.0\ControlledDivisionsWithExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\obj\Debug\net8.0\ControlledDivisionsWithExceptions.dll
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\obj\Debug\net8.0\refint\ControlledDivisionsWithExceptions.dll
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\obj\Debug\net8.0\ControlledDivisionsWithExceptions.pdb
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\obj\Debug\net8.0\ControlledDivisionsWithExceptions.genruntimeconfig.cache
+C:\Users\Personal\source\repos\ControlledDivisionsWithExceptions\obj\Debug\net8.0\ref\ControlledDivisionsWithExceptions.dll
